@@ -274,6 +274,3 @@ if __name__ == "__main__":
     local_dir = os.path.dirname(__file__)
     config_path = os.path.join(local_dir,"neat-config.txt")
     run()
-
-    git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
